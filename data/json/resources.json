@@ -33,5 +33,10 @@
     "name": "Music Player",
     "description": "Online Music Player",
     "url": "https://musicplayer-olive.vercel.app/"
+  },
+  {
+    "name": "",
+    "description": "",
+    "url": ""
   }
 ]
